@@ -1,0 +1,30 @@
+{
+  "name": "@appolo/pg",
+  "version": "8.0.1",
+  "description": "",
+  "private": false,
+  "keywords": [],
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@appolo/logger": "^8.0.5",
+    "@appolo/engine": "^8.0.19",
+    "pg": "^8.5.1"
+  },
+  "devDependencies": {
+    "@types/pg": "^7.14.7",
+    "@types/node": "^14.14.14",
+    "typescript": "^4.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shmoop207/appolo-module-pg.git"
+  },
+  "author": {
+    "name": "Roman Svichar",
+    "email": "roman.svichar@gmail.com"
+  },
+  "license": "MIT"
+}
